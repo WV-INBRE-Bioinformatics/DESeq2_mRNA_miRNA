@@ -1,0 +1,2 @@
+baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	foldChange	absFoldChange	regulation	val.sig.up	val.sig.down	val.nsig.up	val.nsig.down	pred.sig.up	pred.sig.down	pred.nsig.up	pred.nsig.down	val.sig.up.freq	val.sig.down.freq	val.nsig.up.freq	val.nsig.down.freq	pred.sig.up.freq	pred.sig.down.freq	pred.nsig.up.freq	pred.nsig.down.freq
+mmu-miR-93-5p	3037.00862116504	0.540226641975058	0.137949325353025	3.91612384179892	8.99840374513567e-05	0.0670381079012607	1.45420094888698	1.45420094888698	Up					0	0	0	0					0	0	0	0

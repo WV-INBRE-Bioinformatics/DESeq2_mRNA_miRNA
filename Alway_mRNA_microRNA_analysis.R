@@ -12,7 +12,7 @@ rm(list=ls())
 
 # Working directory
 # Set the working directory, which has all function files
-WD <- "/home/smalkaram/Projects/alwayIntegratedMiRNAmRNA20180101010409"
+WD <- "/home/smalkaram/Projects/alwayIntegratedMiRNAmRNADeAnalysis"
 setwd(WD)
 
 # Start Log
