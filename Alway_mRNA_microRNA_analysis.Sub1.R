@@ -72,3 +72,5 @@ VAR<-THISVAR
 			FC = "absFoldChange")
 	WRITE_SIG_TABLES(DF = TEMP, NAME = MRNA_VAR, PVAL = "padj", ALPHA = 1,
 			FC = "absFoldChange")
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

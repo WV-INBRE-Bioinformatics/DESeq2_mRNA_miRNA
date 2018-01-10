@@ -18,3 +18,5 @@ if [ -f $RSCRIPT ]; then
 else
 	echo "Not working on $VAR. $RSCRIPT not found!"
 fi
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

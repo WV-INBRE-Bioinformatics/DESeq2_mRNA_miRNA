@@ -223,3 +223,5 @@ takeFirstCommonRow <- function(DATA, colVec = 1) {
     }
     NEW
 }
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017
