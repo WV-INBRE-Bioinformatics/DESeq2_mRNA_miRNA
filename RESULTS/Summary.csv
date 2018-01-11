@@ -1,14 +1,11 @@
-"Comparison"	"DE_genes"	"DE_UP"	"DE_DOWN"	"Validated_targets"	"Predicted_targets"	"val.sig.up.freq"	"val.sig.down.freq"	"val.nsig.up.freq"	"val.nsig.down.freq"	"pred.sig.up.freq"	"pred.sig.down.freq"	"pred.nsig.up.freq"	"pred.nsig.down.freq"
-													
-"MRNA"													
+"mRNA_Comparison"	"DE_genes"	"DE_UP"	"DE_DOWN"	"Validated_targets"	"Predicted_targets"	"val.sig.up.freq"	"val.sig.down.freq"	"val.nsig.up.freq"	"val.nsig.down.freq"	"pred.sig.up.freq"	"pred.sig.down.freq"	"pred.nsig.up.freq"	"pred.nsig.down.freq"
 "MRNA_KO80WAL_KO20WAL.0.1.csv"	0	0	0	0	0	0	0	0	0	0	0	0	0
 "MRNA_OE80WCR_OE20WCR.0.1.csv"	821	200	621	224	406	0	22	21	181	0	34	25	347
 "MRNA_OE80WAL_OE20WAL.0.1.csv"	572	518	54	4	17	0	0	0	4	0	0	0	17
 "MRNA_WT80WCR_WT20WCR.0.1.csv"	1	0	1	0	0	0	0	0	0	0	0	0	0
 "MRNA_KO80WCR_KO20WCR.0.1.csv"	1	0	1	0	0	0	0	0	0	0	0	0	0
 "MRNA_WT80WAL_WT20WAL.0.1.csv"	13	11	2	0	0	0	0	0	0	0	0	0	0
-													
-"MiRNA "													
+"miRNA_Comparison"	"DE_genes"	"DE_UP"	"DE_DOWN"	"Validated_targets"	"Predicted_targets"	"val.sig.up.freq"	"val.sig.down.freq"	"val.nsig.up.freq"	"val.nsig.down.freq"	"pred.sig.up.freq"	"pred.sig.down.freq"	"pred.nsig.up.freq"	"pred.nsig.down.freq"
 "MiRNA_KO80WAL_KO20WAL.0.1.csv"	1	1	0	0	0	0	0	0	0	0	0	0	0
 "MiRNA_OE80WCR_OE20WCR.0.1.csv"	57	27	30	1663	2303	28	15	917	703	21	38	1171	1073
 "MiRNA_OE80WAL_OE20WAL.0.1.csv"	1	0	1	3	2	0	0	3	0	0	0	1	1
